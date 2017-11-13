@@ -22,8 +22,7 @@ public class Order {
 		this.price = price;
 	}	
 
-	public String getCustomerID() {
-		System.out.println("HOLA");
+	public String getCustomerID() {		
 		return customerID;
 	}
 
