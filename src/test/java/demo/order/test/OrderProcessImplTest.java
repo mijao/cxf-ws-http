@@ -9,6 +9,7 @@ import demo.order.model.Order;
 import demo.order.service.impl.OrderProcessImpl;
 
 public class OrderProcessImplTest {
+	//test
 	
 	private static final Logger LOG = Logger.getLogger(OrderProcessImplTest.class.getName());
 	private OrderProcessImpl service = new OrderProcessImpl();  
