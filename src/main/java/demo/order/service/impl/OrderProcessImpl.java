@@ -13,7 +13,7 @@ import demo.order.model.Order;
 import demo.order.service.OrderProcess;
 
 
-@WebService(serviceName="orderP")
+@WebService
 public class OrderProcessImpl implements OrderProcess {
 	
 	private static final Logger LOG = Logger.getLogger(OrderProcessImpl.class.getName());
