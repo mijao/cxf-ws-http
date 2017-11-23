@@ -17,7 +17,7 @@ import demo.order.service.OrderProcess;
 public class OrderProcessImpl implements OrderProcess {
 	
 	private static final Logger LOG = Logger.getLogger(OrderProcessImpl.class.getName());
-	
+	//test
 	@Resource
 	WebServiceContext wsc;
 
